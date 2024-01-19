@@ -1,0 +1,38 @@
+* {
+  font-family: 'Courier New', Courier, monospace
+}
+
+.container {
+  text-align: center;
+  padding: 14px;
+  margin: 0 auto;
+}
+
+.headers, img, ul, button {
+  display: inline-block;
+  border-radius: 10px;
+}
+.headers, ul {
+  border: 5px solid;
+}
+.headers {
+  background-color: aliceblue;
+  display: block;
+  
+  }
+
+ul {
+  list-style: none;
+  padding: 20px;
+}
+
+li{
+  margin: 8px;
+}
+
+button{
+  padding: 20px;
+  width: 180px;
+  border: 3px dashed;
+  background-color: aliceblue;
+}
